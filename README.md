@@ -38,6 +38,9 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+![adder](tt1.png)
+![subtractor](tt2.png)
+
 **Procedure**
 
 Write the detailed procedure here
