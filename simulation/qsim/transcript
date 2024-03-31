@@ -1,4 +1,6 @@
 # do FULL_addsub.do 
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
 # Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 # -- Compiling module FULL_addsub
 # 
@@ -18,9 +20,10 @@
 # Loading cycloneii_ver.cycloneii_mux21
 # Loading cycloneii_ver.cycloneii_dffe
 # Loading cycloneii_ver.cycloneii_asynch_io
+# Loading cycloneii_ver.cycloneii_lcell_comb
 # Loading work.FULL_addsub_vlg_sample_tst
 # Loading work.FULL_addsub_vlg_check_tst
 # Loading cycloneii_ver.CYCLONEII_PRIM_DFFE
 # Simulation passed !
 # ** Note: $finish    : FULL_addsub.vt(233)
-#    Time: 200 ns  Iteration: 0  Instance: /FULL_addsub_vlg_vec_tst/tb_out
+#    Time: 120 ns  Iteration: 0  Instance: /FULL_addsub_vlg_vec_tst/tb_out
